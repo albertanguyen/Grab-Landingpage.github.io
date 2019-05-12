@@ -1,0 +1,14 @@
+               <ul class="navbar-nav ml-auto">
+                    <li class="nav-item ml-3 pt-1">
+                        <a class="nav-link text-uppercase" href="#">Our Classes</a>
+                    </li>
+                    <li class="nav-item ml-3 pt-1">
+                        <a class="nav-link text-uppercase" href="#">Recent Projects</a>
+                    </li>
+                    <li class="nav-item ml-3 pt-1">
+                        <a class="nav-link text-uppercase" href="#">About</a>
+                    </li>
+                </ul>
+                <img src="img/GrabPayVn-LogoGPM-bw.png" alt="GrabPayVn-LogoGPM-bw">
+                <img src="img/grabrewards_logo_inline_black.png" alt="grabrewards logo">
+ 
